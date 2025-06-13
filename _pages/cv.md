@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* MAR. 2024– JUN. 2024: **Data Science Intern at **Value Analytics Labs**
+* MAR. 2024– JUN. 2024: Data Science Intern at **Value Analytics Labs**
   * Modeled disease progression, including COVID-19 scenarios, using Python and R for predictive analytics.
 
 * AUG. 2023– SEP. 2023: Embedded Programming Intern at **Baykar**
