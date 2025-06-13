@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Pdf Version](http://menevser.github.io/files/Ruveyda_CV.pdf)
+
 Education
 ======
 * Ph.D in Electrical Engineering, **University of Southern California**
