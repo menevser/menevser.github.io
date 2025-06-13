@@ -12,11 +12,12 @@ redirect_from:
 
 Previously, I got my B.S. degrees in 2024 at [] University majoring in ECE and Mathematics with 3.82/4.00, advised by Prof []. I additionly did an exchange semester focused on applied Mathematics at University of []. I have previously worked at Siemens, [] and [] in [].
 
-Research Interests
-Multi Agent Reinforcement Learning for UAVs.
-[].
-[].
-Scholarships and Honors
-Fellowship at University of California
-Study in Canada Grant
-Full Scholarship at [] University
+**Research Interests**
+-Multi Agent Reinforcement Learning for UAVs.
+-[].
+-[].
+
+**Scholarships and Honors**
+-Fellowship at University of California
+-Study in Canada Grant
+-Full Scholarship at [] University
