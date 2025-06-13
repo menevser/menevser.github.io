@@ -20,8 +20,8 @@ Previously, I got my B.S. degrees in 2024 at [Koç University](https://www.ku.ed
 -[].
 
 **Scholarships and Honors**
--Fellowship at University of California
+-Fellowship at University of Southern California (2024)
 
--Study in Canada Grant
+-Study in Canada Grant (2022)
 
--Full Scholarship at Koç University
+-Full Scholarship at Koç University (2019)
