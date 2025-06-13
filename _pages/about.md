@@ -15,9 +15,8 @@ Previously, I earned my B.S. degrees in 2024 from [Koç University](https://www.
 
 ### Research Interests
 
-- Multi-Agent Reinforcement Learning (MARL) for UAV communication networks  
-- Wireless communications and optimization  
-- [Add more specific interests here if desired]  
+- Multi-Agent Reinforcement Learning (MARL) for UAV communication networks   
+
 
 ---
 
@@ -26,5 +25,4 @@ Previously, I earned my B.S. degrees in 2024 from [Koç University](https://www.
 - Ph.D. Fellowship, University of Southern California (2024)  
 - Study in Canada Grant (2022)  
 - Full Scholarship, Koç University (2019–2024)  
-- [Add any additional awards, honors, or fellowships here]
 
