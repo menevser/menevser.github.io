@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,7 +12,7 @@ redirect_from:
 
 Previously, I got my B.S. degrees in 2024 at [Koç University](https://www.ku.edu.tr/en/) majoring in ECE and Mathematics with 3.82/4.00, advised by Professor [Ertuğrul Başar](https://www.tuni.fi/en/people/ertugrul-basar). I additionly did an exchange semester focused on applied Mathematics at University of Toronto. I have previously worked at Siemens and Aselsan.
 
-**Research Interests**
+**Research Interests**</span>
 
 -Multi Agent Reinforcement Learning for UAVs.
 
@@ -20,7 +20,7 @@ Previously, I got my B.S. degrees in 2024 at [Koç University](https://www.ku.ed
 
 -[].
 
-**Scholarships and Honors**
+**Scholarships and Honors**</span>
 
 -Fellowship at University of Southern California (2024)
 
