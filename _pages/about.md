@@ -11,7 +11,7 @@ redirect_from:
 
 Previously, I earned my B.S. degrees in 2024 from [Koç University](https://www.ku.edu.tr/en/), majoring in Electrical and Computer Engineering and Mathematics, with a GPA of 3.82/4.00. I was advised by Professor [Ertuğrul Başar](https://www.tuni.fi/en/people/ertugrul-basar). I also completed an exchange semester focused on Applied Mathematics at the University of Toronto. In the past, I have worked at Siemens and Aselsan.
 
-Personal: I like photography, some of my work is in "Portfolio".
+Personal: I like photography, some of my work is in [Other](https://menevser.github.io/other/).
 
 ---
 
