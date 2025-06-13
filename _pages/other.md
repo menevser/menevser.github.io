@@ -35,8 +35,6 @@ author_profile: true
   <a href="/images/000878930002.jpg" data-lightbox="gallery"><img src="/images/000878930002.jpg" alt=""></a>
   <a href="/images/08880013.JPG" data-lightbox="gallery"><img src="/images/08880013.JPG" alt=""></a>
   <a href="/images/08880001.JPG" data-lightbox="gallery"><img src="/images/08880001.JPG" alt=""></a>
-  <a href="/images/000878930022.jpg" data-lightbox="gallery"><img src="/images/000878930022.jpg" alt=""></a>
-  <a href="/images/000878930002.jpg" data-lightbox="gallery"><img src="/images/000878930002.jpg" alt=""></a>
   <a href="/images/IMG_0432.jpg" data-lightbox="gallery"><img src="/images/IMG_0432.jpg" alt=""></a>
   <a href="/images/IMG_0408.JPG" data-lightbox="gallery"><img src="/images/IMG_0408.JPG" alt=""></a>
   <a href="/images/IMG_0439.JPG" data-lightbox="gallery"><img src="/images/IMG_0439.JPG" alt=""></a>
