@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Pdf Version](http://menevser.github.io/files/Ruveyda_CV.pdf)
+[Pdf Version](http://menevser.github.io/files/resumerm.pdf)
 
 Education
 ======
